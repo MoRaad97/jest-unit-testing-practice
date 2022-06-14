@@ -1,0 +1,22 @@
+{
+  "name": "jest-unit-testing-practice",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "strlength.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoRaad97/jest-unit-testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoRaad97/jest-unit-testing-practice/issues"
+  },
+  "homepage": "https://github.com/MoRaad97/jest-unit-testing-practice#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
